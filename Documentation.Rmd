@@ -1,0 +1,14 @@
+---
+title: "Documentation for palindrom app"
+author: "Ninnakin"
+date: "20 december 2015"
+output: html_document
+---
+
+The plaindrom identifier is a simple shiny app that takes a text string and returns weather it is a palindrom or not. Spaces and special characters are ignored. 
+
+To run the app you need to: 
+
+The app can be accessed from: <>
+
+Alternatively, you can download the server.R, ui.R and helper.R files from <https://github.com/ninnakin/Developing_data_products> and run the app directly in R studio.
