@@ -18,7 +18,7 @@ identify_palindrom <- function(text){
       similar[i] <- vector_text[i]==vector_text[n+1-i]
     }
     
-    if(min(similar)==0) outText <- "This is not a palindrom" else outText <-"This is a palindrom!"
+    if(min(similar)==0) outText <- "This is not a palindrome" else outText <-"This is a palindrome!"
     }
   outText
 }
